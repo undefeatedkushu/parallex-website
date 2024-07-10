@@ -11,6 +11,7 @@ html,body{
 
 .img1, .img2, .img3{
     position: relative;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -20,7 +21,7 @@ html,body{
     min-height: 100%;
 }
 .img2{
-    background-image: url(https://images.unsplash.com/photo-1564538334898-ff3daf505dca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-image: url(https://images.unsplash.com/photo-1595815771614-ade9d652a65d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     min-height: 100%;
 }
 .img3{
@@ -31,7 +32,7 @@ html,body{
 
 .ptext{
     position: absolute;
-    top: 50%;
+    top: 90%;
     text-align: center;
     width: 100%;
     font-size: 30px;
